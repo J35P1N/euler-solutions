@@ -28,6 +28,9 @@ namespace ProjectEuler
                         case 1:
                             new MultiplesOfThreeAndFive();
                             break;
+                        case 2:
+                            new EvenFibonacciNumbers();
+                        break;
                         default:
                             Console.WriteLine("Invalid entry. Please try another.");
                         break;
