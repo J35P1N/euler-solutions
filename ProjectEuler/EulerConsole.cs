@@ -29,7 +29,7 @@ namespace ProjectEuler
                             new MultiplesOfThreeAndFive();
                             break;
                         default:
-                            Console.WriteLine("Invalid entry. Please try another.");
+                            new EvenFibonacciNumbers();
                         break;
                     }
                 }
